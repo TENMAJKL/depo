@@ -2,6 +2,13 @@
 Depo is simple JavaScript file that lets you import html from other files\
 Version 1.0.0
 
+## Installation
+Installation is pretty basic\
+Just add `<script src="https://raw.githubusercontent.com/TENMAJKL/depo/master/src/depo.js"></script>` to end of your main file where you want to import
+
+
+
+
 ## Example
 
 ```html
@@ -17,7 +24,7 @@ Version 1.0.0
     <h2>I'm going to add some html using Depo</h2>
     <import file="hi.html">
 </body>
-<script src="depo.js"></script>
+<script src="https://raw.githubusercontent.com/TENMAJKL/depo/master/src/depo.js"></script>
 </html>
 
 <!-- hi.html -->
